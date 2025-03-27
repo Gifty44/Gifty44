@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gift
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on 🤔
-- 📫 How to reach me giftcollins444@gmail.com
+- 🌱 I am a Data Analyst/Data Scientist
+- 💞️ I’m looking to collaborate on Big Data Technology Projects
+- 📫 How to reach me giftnwabuzor08@gmail.com
 
 <!---
 Gifty44/Gifty44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
